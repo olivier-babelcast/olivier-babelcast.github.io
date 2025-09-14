@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b47cb56-b28e-4729-87cd-4cfd968a78a5" name="Changes" comment="" />
+    <list default="true" id="dd942be4-06fb-41ed-9381-d7953ec6d411" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/EU_2023_2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EU_2023_2_files/MathJax.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="325Do11NC2ArI6Zp5RLZmT9ZfyD" />
+  <component name="ProjectId" id="325Do0vgnbgpfu4XuCaxm4wVPkm" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -19,13 +29,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9b47cb56-b28e-4729-87cd-4cfd968a78a5" name="Changes" comment="" />
+      <changelist id="dd942be4-06fb-41ed-9381-d7953ec6d411" name="Changes" comment="" />
       <created>1756701710906</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
